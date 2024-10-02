@@ -40,7 +40,7 @@ El proyecto está utilizando la librería Python SQLAlchemy para generar la base
 - ¿Qué relaciones hay entre las tablas? ¿Cuántos planetas puede guardar un usuario?
    
 Nota: Recuerda que las relaciones pueden ser Uno-a-uno, Uno-a-muchos o Muchos-a-muchos.
-
+p
 - Por favor, agrega por lo menos 4 modelos y sus respectivas relaciones.
 - Genera el `diagram.png` utilizando el comando `$ python src/models.py` en la consola.
 
